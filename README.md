@@ -1,8 +1,6 @@
 # Stopwatch
 
 
-![Alt text](/images/sample.JPG)
-
 This is an stopwatch application built using HTML, CSS, and vanilla JavaScript. It allows you to measure time with precision and provides a sleek and user-friendly interface.
 
 ## Features

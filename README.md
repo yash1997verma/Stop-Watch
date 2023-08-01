@@ -11,14 +11,14 @@ This is an stopwatch application built using HTML, CSS, and vanilla JavaScript. 
 
 ## Demo
 
-Check out the live demo of the stopwatch [here](https://your-demo-link.com).
+Check out the live demo of the stopwatch [here](https://csb-cyx96p.netlify.app/).
 
 ## Getting Started
 
 To run the stopwatch locally, follow these steps:
 
     1. Clone the repository:
-    git clone https://github.com/your-username/awesome-stopwatch.git
+    git clone https://github.com/your-username/awesome-stopwatch.git](https://github.com/yash1997verma/Stop-Watch.git
 
     2. Open the index.html file in your web browser.
 

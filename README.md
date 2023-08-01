@@ -18,7 +18,7 @@ Check out the live demo of the stopwatch [here](https://csb-cyx96p.netlify.app/)
 To run the stopwatch locally, follow these steps:
 
     1. Clone the repository:
-    git clone https://github.com/your-username/awesome-stopwatch.git
+    git clone https://github.com/yash1997verma/Stop-Watch.git
 
     2. Open the index.html file in your web browser.
 
